@@ -1,0 +1,21 @@
+{
+    "name": "zhujinkui/tp5-page",
+    "description": "This is a Page class library based on the ThinkPHP5 framework",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "zhujinkui",
+            "email": "developer@zhujinkui.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "think\\page\\": "src/"
+        }
+    }
+}
