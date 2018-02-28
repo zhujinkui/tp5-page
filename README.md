@@ -3,7 +3,7 @@
 
 ## 案例展示
 > 基于ThinkPHP5开发呈现分页的效果  
-![Image text](http://images.22058.com/github/tp5-auth/page_1.jpg)  
+![Image text](http://images.22058.com/github/tp5-page/page_1.jpg)
 
 ## 安装
 > composer require zhujinkui/tp5-page
