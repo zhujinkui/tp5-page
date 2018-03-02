@@ -8,7 +8,7 @@
 // | Author: zhujinkui <developer@zhujinkui.com>
 // +----------------------------------------------------------------------
 
-namespace think\page;
+namespace think;
 
 class Page {
     // 分页栏每页显示的页数

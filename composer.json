@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "think\\page\\": "src/"
+            "think\\": "src/"
         }
     }
 }
